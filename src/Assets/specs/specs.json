@@ -1,0 +1,60 @@
+{
+    "specs": [
+        {
+            "title": "Front & rear lights",
+            "icon": "./assets/icons/helmet.icon.svg",
+            "speclist": [
+              "Total output +500 lumens",
+              "Weight 580g *Medium size non-Mips",
+              "Construction ABS + PS shell + EPS liner",
+              "Ventilation Fixed (5 vents)",
+              "Waterproofing I-PX6",
+              "Certifications CPSC EN1078, AS NZS 2063:2008"
+            ]
+        },
+        {
+            "title": "Companion App",
+            "icon": "./assets/icons/app.icon.svg",
+            "speclist": [
+              "Total output +500 lumens",
+              "Weight 580g *Medium size non-Mips",
+              "Construction ABS + PS shell + EPS liner",
+              "Ventilation Fixed (5 vents)",
+              "Waterproofing I-PX6",
+              "Certifications CPSC EN1078, AS NZS 2063:2008"
+            ]
+        },
+        {
+            "title": "Navigation remote",
+            "icon": "./assets/icons/nav-remote.icon.svg",
+            "speclist": [
+              "Total output +500 lumens",
+              "Weight 580g *Medium size non-Mips",
+              "Construction ABS + PS shell + EPS liner",
+              "Ventilation Fixed (5 vents)",
+              "Waterproofing I-PX6",
+              "Certifications CPSC EN1078, AS NZS 2063:2008"
+            ]
+        },
+        {
+            "title": "Battery",
+            "icon": "./assets/icons/battery.icon.svg",
+            "speclist": [
+              "Total output +500 lumens",
+              "Weight 580g *Medium size non-Mips",
+              "Construction ABS + PS shell + EPS liner",
+              "Ventilation Fixed (5 vents)",
+              "Waterproofing I-PX6",
+              "Certifications CPSC EN1078, AS NZS 2063:2008"
+            ]
+        }
+    ],
+    "icons":{
+      "faro-helmet":"./assets/icons-header/faro.fill.svg",
+      "user-manual":"./assets/icons-header/umanual.filll.svg",
+      "nav-remote":"./assets/icons-header/navremote.fill.svg",
+      "rubb-band":"./assets/icons-header/rubberbands.fill.svg",
+      "usb":"./assets/icons-header/usb-c.fill.svg",
+      "check":"./assets/icons-header/check.svg"
+    }
+}
