@@ -17,7 +17,7 @@ const Spec = (props) => {
           specs.map((spect, indx) => {
             const { title, icon, speclist } = spect;
             return (
-              <dl className="w-full mx-auto max-w-md accordion-item bg-white border border-gray-200">
+              <dl className="w-full mx-auto max-w-md accordion-item bg-white border border-gray-200" key={`dl-${indx}`}>
                 <dt className="relative">
                   <h2 className="accordion-header mb-0 text-base">
                     <button
@@ -47,9 +47,9 @@ const Spec = (props) => {
                   </h2>
                   <img className="absolute top-4 right-14 md:right-3 z-10" src={icon} alt="icon"></img>
                 </dt>
-                {speclist.map((desc) => {
+                {speclist.map((desc, index) => {
                   return (
-                    <div className="accordion-item bg-white border border-gray-200">
+                    <div className="accordion-item bg-white border border-gray-200" key={`div${index}`}>
                       <div
                         id={`collapse${indx}`}
                         className="accordion-collapse collapse show"
