@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/the-box/static/css/main.63c80609.css",
+    "main.css": "/the-box/static/css/main.d1d9274a.css",
     "main.js": "/the-box/static/js/main.ec32cc23.js",
     "static/js/787.1ea991e3.chunk.js": "/the-box/static/js/787.1ea991e3.chunk.js",
     "static/media/background.png": "/the-box/static/media/background.a240e2fd53dcddb40f4c.png",
@@ -42,12 +42,12 @@
     "static/media/Satoshi-LightItalic.woff2": "/the-box/static/media/Satoshi-LightItalic.540a6dd2e29f70e15477.woff2",
     "static/media/Satoshi-Light.woff2": "/the-box/static/media/Satoshi-Light.df8f06167ee6fd05a131.woff2",
     "index.html": "/the-box/index.html",
-    "main.63c80609.css.map": "/the-box/static/css/main.63c80609.css.map",
+    "main.d1d9274a.css.map": "/the-box/static/css/main.d1d9274a.css.map",
     "main.ec32cc23.js.map": "/the-box/static/js/main.ec32cc23.js.map",
     "787.1ea991e3.chunk.js.map": "/the-box/static/js/787.1ea991e3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.63c80609.css",
+    "static/css/main.d1d9274a.css",
     "static/js/main.ec32cc23.js"
   ]
 }
